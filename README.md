@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alexandre Duarte</h1>
 <h3 align="center">A passionate backend developer from Portugal</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+<img align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 - 🌱 I’m currently learning **Tensorflow**
 
