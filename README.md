@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning**
 
-- 💬 Ask me about **Python and Hadoop**
+- 💬 Ask me about **Python and Flask**
 
 - 📫 How to reach me **duartea369@gmail.com**
 
